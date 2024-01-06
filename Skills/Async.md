@@ -1,0 +1,95 @@
+## Asynchronous programming
+
+- Theory
+  - Event loop: 🖐️ used
+  - try..catch: 🖐️ used
+  - Non-blocking: 🙋 used
+  - Async I/O: 🙋 used
+  - Thread pool: 🙋 used
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 👂 heard
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 👂 heard
+  - Race conditions: 🖐️ used
+  - Dead locks: 🖐️ used
+  - Live locks: 👂 heard
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Actor Model: 🖐️ used
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
+- Async contracts
+  - Callbacks: 🙋 used
+  - Callback-last-error-first: 🙋 used
+  - Thenable: 🙋 used
+  - Promise: 🙋 used
+  - Async/await: 🙋 used
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🙋 used
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
+  - Signal: 🙋 used
+  - Stream: 🙋 used
+  - Chain of responsibility: 🖐️ used
+  - Middleware: 🙋 used
+  - Locks: 🖐️ used
+- Async adapters and utils
+  - callbackify: 👂 heard
+  - promisify: 🙋 used
+  - asyncify: 👂 heard
+  - callbacks compose: 🖐️ used
+  - async compose: 🖐️ used
+- Async abstractions interfaces
+  - EventEmitter: 🙋 used
+  - Observable/Observer: 🖐️ used
+  - Readable: 🙋 used
+  - Writable: 🙋 used
+  - Transform: 🙋 used
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
+  - Async Collector: 🖐️ used
+  - Semaphore: 👂 heard
+  - Mutex: 🖐️ used
+  - Spin Lock: 👂 heard
+- JavaScript & Node.js specific
+  - Timers: 🙋 used
+  - setImmediate: 🙋 used
+  - nextTick: 🙋 used
+  - AbortController: 👂 heard
+  - AbortSignal: 👂 heard
+  - Promise unhandled rejection: 🖐️ used
+  - Promise double resolve: 👂 heard
+  - child_process: 🖐️ used
+  - worker_threads: 🖐️ used
+  - Atomics: 👂 heard
+  - High resolution clock: 👂 heard
+  - Callback hell: 🙋 used
+  - Promise hell: 🙋 used
+  - ref() and unref(): 🖐️ used
+  - Error handling in async code: 🙋 used
+  - Better stack traces with return await: 🖐️ used
+  - JSON: streaming serialization: 🖐️ used
+  - promisify: 🙋 used
+  - callbackify: 🖐️ used
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
+- Techniques
+  - async.js library: 🖐️ used
+  - RxJS library: 🖐️ used
+  - Async composition: 🙋 used
+  - Promise.all: 🙋 used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
+  - Web Locks API: 👂 heard
+  - IPC: 🙋 used
+  - Channel API: 🖐️ used
+  - Revealing Constructor: 👂 heard
+  - Web Locks API: 👂 heard

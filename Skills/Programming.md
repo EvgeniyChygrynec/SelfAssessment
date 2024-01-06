@@ -1,0 +1,106 @@
+## Programming fundamental concepts
+
+- Syntax and Concepts
+  - value: 🙋 used
+  - identifier: 🙋 used
+  - variable: 🙋 used
+  - constant: 🙋 used
+  - scalar: 🙋 used
+  - literal: 🙋 used
+  - expression: 🙋 used
+  - heap: 🖐️ used
+  - function: 🙋 used
+  - procedure: 🖐️ used
+  - method: 🙋 used
+  - class: 🙋 used
+  - prototype: 🙋 used
+  - event: 🙋 used
+  - type: 🙋 used
+  - primitive types: 🙋 used
+  - reference types: 🙋 used
+  - flag: 🖐️ used
+  - lexical scope: 🙋 used
+  - code block: 🙋 used
+  - conditions: 🙋 used
+  - loops: 🙋 used
+  - assignment: 🙋 used
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🙋 used
+  - call stack: 🖐️ used
+- Functions
+  - signature: 🙋 used
+  - argument: 🙋 used
+  - parameter: 🙋 used
+  - pure function: 🖐️ used
+  - lambda expression: 🙋 used
+  - side effects: 🖐️ used
+  - closure: 🙋 used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🙋 used
+  - recursion: 🖐️ used
+  - callback: 🙋 used
+  - listener: 🙋 used
+  - compose: 🖐️ used
+  - pipe: 🖐️ used
+  - memoize: 🖐️ used
+  - wrapper: 🖐️ used
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 👂 heard
+  - generator: 🖐️ used
+  - coroutine: 👂 heard
+- Data Structures
+  - array: 🙋 used
+  - structure: 🖐️ used
+  - record: 🖐️ used
+  - enum: 🖐️ used
+  - instance: 🙋 used
+  - object: 🙋 used
+  - class: 🙋 used
+  - collection: 🙋 used
+  - set: 🖐️ used
+  - hash table: 🖐️ used
+  - linked list: 🖐️ used
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 🖐️ used
+  - stack: 🖐️ used
+  - deque: 👂 heard
+  - tree: 🖐️ used
+  - graph: 🖐️ used
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
+- Process & Style
+  - compiler: 🖐️ used
+  - transpiler: 🖐️ used
+  - linter: 🙋 used
+  - polyfill: 🖐️ used
+  - debugger: 🙋 used
+  - garbage collection: 🖐️ used
+  - refactoring: 🙋 used
+  - code review: 🙋 used
+  - antipatterns: 🖐️ used
+  - paradigm: 🙋 used
+  - algorithm: 🙋 used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🙋 used
+  - decomposition: 🙋 used
+  - spaghetti: 🖐️ used
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
+  - dead code: 🖐️ used
+  - unreachable code: 🖐️ used
+  - duplicate code: 🖐️ used
+  - exception: 🙋 used
+  - return early: 🙋 used
+  - unittest: 🙋 used
+  - git: 🙋 used
+  - github: 🙋 used
